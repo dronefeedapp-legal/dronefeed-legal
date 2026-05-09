@@ -11,7 +11,7 @@ Static GitHub Pages site for Dronefeed legal pages.
 
 ## Suggested Google Play URLs
 
-Replace `milchrice1` if the GitHub account or repository path differs.
+Use these URLs for Google Play:
 
 ```text
 https://dronefeedapp-legal.github.io/dronefeed-legal/privacy.html
